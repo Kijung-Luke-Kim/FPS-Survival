@@ -213,6 +213,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 57.21, y: -24.1, z: 0}
+--- !u!1 &1723999255 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2231125699061386487, guid: 423635a4e9a18f046b5a86889fcdf8f0,
+    type: 3}
+  m_PrefabInstance: {fileID: 2231125700626000096}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1723999256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1723999255}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 141795c4e47a2694fa403abf49fc66a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireRate: 15
+  damage: 20
 --- !u!1001 &1958831648
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -277,6 +297,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2231125698787073113, guid: 423635a4e9a18f046b5a86889fcdf8f0,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: fea096156af5c374b82959e389e73255, type: 2}
     - target: {fileID: 2231125699061386487, guid: 423635a4e9a18f046b5a86889fcdf8f0,
         type: 3}
       propertyPath: m_Name
@@ -336,6 +361,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2231125699529797855, guid: 423635a4e9a18f046b5a86889fcdf8f0,
+        type: 3}
+      propertyPath: m_TagString
+      value: Axe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 423635a4e9a18f046b5a86889fcdf8f0, type: 3}
