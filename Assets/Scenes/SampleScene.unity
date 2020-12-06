@@ -337,45 +337,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2231125699166845234, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 62a91dbc26307bd498fcf3e5f2f168fb, type: 2}
-    - target: {fileID: 2231125699174124270, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2231125699520267025, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 831602fbdc5355f4585e22e59ef7528b, type: 2}
-    - target: {fileID: 2231125699529797855, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2231125699566040928, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: ed9c2b11054ab2249aec4fa4fe9f84a2, type: 2}
-    - target: {fileID: 2231125699854180964, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 0c48d6500d9ae5a4bac94da47f594c37, type: 2}
-    - target: {fileID: 2231125700076114454, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: e7e72f2d156a05941a2dc7f2073af805, type: 2}
-    - target: {fileID: 2231125700085637542, guid: 423635a4e9a18f046b5a86889fcdf8f0,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 423635a4e9a18f046b5a86889fcdf8f0, type: 3}
